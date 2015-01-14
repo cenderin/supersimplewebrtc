@@ -1,0 +1,17 @@
+.container {
+  margin-left: 20px;
+  margin-right:20px;
+}
+#webrtc-app{
+  background-color: rgba(229, 229, 229, 0.6);
+}
+video {
+  max-height: 481px;
+  border: 1px solid rgb(171, 171, 171);
+  border-radius: 4px;
+  border-width: 2px 3px 5px;  
+
+}
+#remotesVideos{
+  text-align:center;
+}
